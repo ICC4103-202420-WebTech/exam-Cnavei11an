@@ -7,3 +7,8 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+Compliment.create(content: "you can do it! you always can")
+Compliment.create(content: "you are the best person in the world")
+Compliment.create(content: "you are amazing")
+Compliment.create(content: "you are beautiful")
+Compliment.create(content: "you are the best")
